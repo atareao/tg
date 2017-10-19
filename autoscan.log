@@ -1,0 +1,18 @@
+autoscan: warning: missing AC_CHECK_FUNCS([dup2]) wanted by: 
+	main.c:521
+	main.c:522
+	main.c:523
+	main.c:529
+	main.c:530
+autoscan: warning: missing AC_CHECK_FUNCS([setenv]) wanted by: 
+	main.c:592
+	main.c:593
+	main.c:594
+autoscan: warning: missing AC_CHECK_FUNCS([strrchr]) wanted by: 
+	python-tg.c:1361
+autoscan: warning: missing AC_CHECK_HEADER_STDBOOL wanted by: 
+	python-types.c:1020
+autoscan: warning: missing AC_FUNC_FORK wanted by: 
+	interface.c:2605
+autoscan: warning: missing AC_FUNC_STRTOD wanted by: 
+	interface.c:454
